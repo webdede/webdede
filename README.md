@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @webdede aka André Mancini Lima. I live in Rio de Janeiro, Brazil and it's nice to finally meet you all.
+- 👀 I’m interested in anime, games and new technologies
+- 🌱 I’m currently learning to become a web developer. I have started my journey learning HTML, CSS. JavaScript, JQuerry, SEO, MySQL, PHP, Python and much more.
+- 💞️ I’m looking to collaborate on new web projects always trying new things. My focus is on consolidating my knoledge in HTML, CSS and Javascript and SEO 
+- to make beaufitul and responsives web sites that can make any client happy  
+- 📫 How to reach me, my Whatsapp is +55(21)981237266 email:andremncn@gmail.com
